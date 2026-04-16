@@ -214,6 +214,9 @@
 
 *• Pagar*
 
+<img width="1324" height="847" alt="Diagrama en blanco - Página 1" src="https://github.com/user-attachments/assets/f5a7fd7b-2c69-47db-9db7-225c2b714964" />
+
+
 **Los puntos para la evaluación**
 
 **Los ejercicios deben tener:**
