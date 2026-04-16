@@ -64,6 +64,7 @@ Acciones:
 • Cliente
 • Repartidor
 • Restaurante
+
 <img width="1254" height="1060" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/791f097f-cb9e-4639-9f02-1c9887767dfc" />
 
 9. Sistema de Gestión de Eventos
