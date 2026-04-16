@@ -1,34 +1,65 @@
-Taller Grupal: Ejercicios de Casos de Uso
-INTEGRANTES: JEAN PAUL AGUILAR, CESAR ARIAS, MATEO VALDIVIESO
-1. Sistema de Biblioteca
-Contexto: Un sistema permite gestionar préstamos de libros.
-Tarea:
+**Taller Grupal: Ejercicios de Casos de Uso**
+
+**INTEGRANTES:** JEAN PAUL AGUILAR, CESAR ARIAS, MATEO VALDIVIESO
+
+**1. Sistema de Biblioteca**
+
+*Contexto:* Un sistema permite gestionar préstamos de libros.
+
+*Tarea:*
+
 • Identificar actores
+
 • Definir al menos 5 casos de uso
+
 • Incluir un <<include>>
-Acciones:
+
+*Acciones:*
+
 • Prestar libro
+
 • Devolver libro
+
 • Registrar usuario
-Sistema de Tienda Online
-Contexto:Los usuarios pueden comprar productos en línea.
-Tareea:
+
+**2. Sistema de Tienda Online**
+
+*Contexto:* Los usuarios pueden comprar productos en línea.
+
+*Tareea:*
+
 • Modelar el proceso de compra
+
 • Incluir un <<extend>>
-Acciones:
+
+*Acciones:*
+
 • Agregar al carrito
+
 • Pagar
+
 • Aplicar descuento
-Sistema de Chat
-Contexto:Aplicación tipo WhatsApp.
-Tarea:
+
+**3. Sistema de Chat**
+
+*Contexto:* Aplicación tipo WhatsApp.
+
+*Tarea:*
+
 • Diseñar el diagrama completo
+
 • Incluir notificaciones
-Acciones:
+
+*Acciones:*
+
 • Enviar mensaje
+
 • Recibir mensaje
+
 • Iniciar sesión
-4. Sistema de Reservas de Hotel
+
+**4. Sistema de Reservas de Hotel**
+
 Contexto:Permite reservar habitaciones.
 Tarea:
 • Identificar 2 actores
