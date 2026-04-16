@@ -92,83 +92,132 @@
 <img width="1324" height="847" alt="Diagrama en blanco (1)" src="https://github.com/user-attachments/assets/01a779a3-2785-4b45-86df-25e128494764" />
 
 
-5. Sistema Académico
-Contexto: Gestión de estudiantes y docentes.
-Tarea:
-• Diferenciar actores
-• Relacionar funcionalidades
-Acciones:
-• Registrar notas
-• Ver calificaciones
+**5. Sistema Académico**
+
+*Contexto: Gestión de estudiantes y docentes.*
+
+**Tarea:**
+
+*• Diferenciar actores*
+
+*• Relacionar funcionalidades*
+
+**Acciones:**
+
+*• Registrar notas*
+
+*• Ver calificaciones*
 
 
 <img width="1171" height="757" alt="Diagrama en blanco - Página 2 (1)" src="https://github.com/user-attachments/assets/58c5a617-7c00-47c6-a0d5-093c203e6f83" />
 
 
-6. Sistema de Cajero Automático
-Contexto:
-Permite realizar operaciones bancarias.
-Tarea:
-• Modelar interacciones básicas
-• Incluir validación
-Acciones:
-• Retirar dinero
-• Consultar saldo
-• Validar PIN
+**6. Sistema de Cajero Automático**
+
+*Contexto: Permite realizar operaciones bancarias.*
+
+**Tarea:**
+
+*• Modelar interacciones básicas*
+
+*• Incluir validación*
+
+**Acciones:**
+
+*• Retirar dinero*
+
+*• Consultar saldo*
+
+*• Validar PIN*
+
 
 <img width="1186" height="757" alt="Diagrama en blanco - Página 3 (1)" src="https://github.com/user-attachments/assets/94b84614-fb7c-4e83-8f87-01d0e7ac0bdd" />
 
 
+**7. Sistema de Delivery**
 
-8. Sistema de Delivery
-Contexto: App para pedir comida.
-Tarea:
-• Incluir múltiples actores
-• Representar flujo completo
-Acciones:
-• Cliente
-• Repartidor
-• Restaurante
+*Contexto: App para pedir comida.*
+
+**Tarea:**
+
+*• Incluir múltiples actores*
+
+*• Representar flujo completo*
+
+**Acciones:**
+
+*• Cliente*
+
+*• Repartidor*
+
+*• Restaurante*
 
 
 <img width="1254" height="1060" alt="Diagrama de caso de uso (1)" src="https://github.com/user-attachments/assets/56dbf3f3-6736-491d-8e5b-02d379afad2a" />
 
 
-9. Sistema de Gestión de Eventos
-Contexto: Permite crear y reservar eventos.
-Tarea:
-• Crear relaciones <<include>>
-• Modelar compra de entradas
-Acciones:
-• Crear evento
-• Comprar ticket
+**8. Sistema de Gestión de Eventos**
+
+*Contexto: Permite crear y reservar eventos.*
+
+**Tarea:**
+
+*• Crear relaciones <<include>>*
+
+*• Modelar compra de entradas*
+
+**Acciones:**
+
+*• Crear evento*
+
+*• Comprar ticket*
+
 
 <img width="1102" height="700" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/ede2e11e-c346-488d-bc14-f71235c01f79" />
 
-11. Sistema de Gimnasio
-Contexto: Control de usuarios y rutinas.
-Tarea:
-• Identificar roles
-• Modelar procesos
-Acciones:
-• Inscribirse
-• Registrar asistencia
+
+**9. Sistema de Gimnasio**
+
+*Contexto: Control de usuarios y rutinas.*
+
+**Tarea:**
+
+*• Identificar roles*
+
+*• Modelar procesos*
+
+**Acciones:**
+
+*• Inscribirse*
+
+*• Registrar asistencia*
+
 
 <img width="1106" height="820" alt="Diagrama de caso de uso (2)" src="https://github.com/user-attachments/assets/5708b510-c9c5-4b32-a1f4-d5f0ef92082d" />
 
-13. Sistema de Turismo
-Contexto: App para reservar tours.
-Tarea:
-• Relacionar con pagos
-• Incluir confirmaciones
-Acciones:
-• Buscar destinos
-• Reservar tour
-• Pagar
-Los puntos para la evaluación
-Los ejercicios deben tener:
-• Actores
-• Casos de uso
-• Diagrama gráfico
+
+**10. Sistema de Turismo**
+
+*Contexto: App para reservar tours.*
+
+**Tarea:**
+
+*• Relacionar con pagos*
+
+*• Incluir confirmaciones*
+
+**Acciones:**
+
+*• Buscar destinos*
+
+*• Reservar tour*
+
+*• Pagar*
+
+**Los puntos para la evaluación**
+**Los ejercicios deben tener:**
+**• Actores**
+**• Casos de uso**
+**• Diagrama gráfico**
 
 
