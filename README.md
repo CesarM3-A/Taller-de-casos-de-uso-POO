@@ -129,7 +129,10 @@ Tarea:
 Acciones:
 • Crear evento
 • Comprar ticket
-10. Sistema de Gimnasio
+
+<img width="1102" height="700" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/ede2e11e-c346-488d-bc14-f71235c01f79" />
+
+11. Sistema de Gimnasio
 Contexto: Control de usuarios y rutinas.
 Tarea:
 • Identificar roles
@@ -137,7 +140,7 @@ Tarea:
 Acciones:
 • Inscribirse
 • Registrar asistencia
-11. Sistema de Turismo
+12. Sistema de Turismo
 Contexto: App para reservar tours.
 Tarea:
 • Relacionar con pagos
