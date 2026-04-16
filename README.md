@@ -1,4 +1,5 @@
 Taller Grupal: Ejercicios de Casos de Uso
+INTEGRANTES: JEAN PAUL AGUILAR, CESAR ARIAS, MATEO VALDIVIESO
 1. Sistema de Biblioteca
 Contexto: Un sistema permite gestionar préstamos de libros.
 Tarea:
@@ -63,7 +64,9 @@ Acciones:
 • Cliente
 • Repartidor
 • Restaurante
-8. Sistema de Gestión de Eventos
+<img width="1254" height="1060" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/791f097f-cb9e-4639-9f02-1c9887767dfc" />
+
+9. Sistema de Gestión de Eventos
 Contexto: Permite crear y reservar eventos.
 Tarea:
 • Crear relaciones <<include>>
@@ -71,7 +74,7 @@ Tarea:
 Acciones:
 • Crear evento
 • Comprar ticket
-9. Sistema de Gimnasio
+10. Sistema de Gimnasio
 Contexto: Control de usuarios y rutinas.
 Tarea:
 • Identificar roles
@@ -79,7 +82,7 @@ Tarea:
 Acciones:
 • Inscribirse
 • Registrar asistencia
-10. Sistema de Turismo
+11. Sistema de Turismo
 Contexto: App para reservar tours.
 Tarea:
 • Relacionar con pagos
