@@ -86,6 +86,10 @@ Tarea:
 Acciones:
 • Registrar notas
 • Ver calificaciones
+
+<img width="1171" height="757" alt="Diagrama en blanco - Página 2" src="https://github.com/user-attachments/assets/4d1e756f-7d25-430d-a2ff-0ceecd74a641" />
+
+
 6. Sistema de Cajero Automático
 Contexto:
 Permite realizar operaciones bancarias.
