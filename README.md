@@ -215,9 +215,13 @@
 *• Pagar*
 
 **Los puntos para la evaluación**
+
 **Los ejercicios deben tener:**
+
 **• Actores**
+
 **• Casos de uso**
+
 **• Diagrama gráfico**
 
 
