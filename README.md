@@ -102,7 +102,7 @@ Acciones:
 • Repartidor
 • Restaurante
 
-<img width="1254" height="1060" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/791f097f-cb9e-4639-9f02-1c9887767dfc" />
+<img width="1254" height="1060" alt="Diagrama de caso de uso (1)" src="https://github.com/user-attachments/assets/56dbf3f3-6736-491d-8e5b-02d379afad2a" />
 
 9. Sistema de Gestión de Eventos
 Contexto: Permite crear y reservar eventos.
