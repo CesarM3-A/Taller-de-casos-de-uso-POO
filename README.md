@@ -44,6 +44,10 @@
 
 *• Aplicar descuento*
 
+
+<img width="1160" height="640" alt="1" src="https://github.com/user-attachments/assets/0ab18a35-9f33-4379-ace5-c183d0bf24c2" />
+
+
 **3. Sistema de Chat**
 
 *Contexto: Aplicación tipo WhatsApp.*
