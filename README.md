@@ -112,8 +112,7 @@ Acciones:
 • Consultar saldo
 • Validar PIN
 
-
-<img width="1186" height="757" alt="Diagrama en blanco - Página 3" src="https://github.com/user-attachments/assets/0b1806ee-656e-480d-8e74-3c49fca895e5" />
+<img width="1186" height="757" alt="Diagrama en blanco - Página 3 (1)" src="https://github.com/user-attachments/assets/94b84614-fb7c-4e83-8f87-01d0e7ac0bdd" />
 
 
 
