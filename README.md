@@ -68,6 +68,8 @@ Acciones:
 • Buscar habitación
 • Reservar
 • Cancelar
+<img width="1324" height="847" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/f6b42a20-813d-4fa0-87c7-75b37438fab3" />
+
 5. Sistema Académico
 Contexto: Gestión de estudiantes y docentes.
 Tarea:
