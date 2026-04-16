@@ -66,6 +66,10 @@
 
 *• Iniciar sesión*
 
+
+<img width="1200" height="1120" alt="1" src="https://github.com/user-attachments/assets/d74de85e-1868-443a-a343-4a9f2e6fee92" />
+
+
 **4. Sistema de Reservas de Hotel**
 
 *Contexto: Permite reservar habitaciones.*
