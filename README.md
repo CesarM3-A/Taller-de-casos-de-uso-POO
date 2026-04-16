@@ -149,7 +149,10 @@ Tarea:
 Acciones:
 • Inscribirse
 • Registrar asistencia
-12. Sistema de Turismo
+
+<img width="1106" height="820" alt="Diagrama de caso de uso (2)" src="https://github.com/user-attachments/assets/5708b510-c9c5-4b32-a1f4-d5f0ef92082d" />
+
+13. Sistema de Turismo
 Contexto: App para reservar tours.
 Tarea:
 • Relacionar con pagos
@@ -163,3 +166,5 @@ Los ejercicios deben tener:
 • Actores
 • Casos de uso
 • Diagrama gráfico
+
+
