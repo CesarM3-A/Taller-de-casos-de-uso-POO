@@ -22,6 +22,10 @@
 
 *• Registrar usuario*
 
+
+<img width="1280" height="980" alt="1" src="https://github.com/user-attachments/assets/3aacff6b-fe11-4214-9cdd-7640c1fab967" />
+
+
 **2. Sistema de Tienda Online**
 
 *Contexto: Los usuarios pueden comprar productos en línea.*
@@ -76,7 +80,9 @@
 
 *• Cancelar*
 
+
 <img width="1324" height="847" alt="Diagrama en blanco (1)" src="https://github.com/user-attachments/assets/01a779a3-2785-4b45-86df-25e128494764" />
+
 
 5. Sistema Académico
 Contexto: Gestión de estudiantes y docentes.
@@ -86,6 +92,7 @@ Tarea:
 Acciones:
 • Registrar notas
 • Ver calificaciones
+
 
 <img width="1171" height="757" alt="Diagrama en blanco - Página 2" src="https://github.com/user-attachments/assets/4d1e756f-7d25-430d-a2ff-0ceecd74a641" />
 
@@ -110,7 +117,9 @@ Acciones:
 • Repartidor
 • Restaurante
 
+
 <img width="1254" height="1060" alt="Diagrama de caso de uso (1)" src="https://github.com/user-attachments/assets/56dbf3f3-6736-491d-8e5b-02d379afad2a" />
+
 
 9. Sistema de Gestión de Eventos
 Contexto: Permite crear y reservar eventos.
