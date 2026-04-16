@@ -98,7 +98,7 @@ Acciones:
 • Ver calificaciones
 
 
-<img width="1171" height="757" alt="Diagrama en blanco - Página 2" src="https://github.com/user-attachments/assets/4d1e756f-7d25-430d-a2ff-0ceecd74a641" />
+<img width="1171" height="757" alt="Diagrama en blanco - Página 2 (1)" src="https://github.com/user-attachments/assets/58c5a617-7c00-47c6-a0d5-093c203e6f83" />
 
 
 6. Sistema de Cajero Automático
