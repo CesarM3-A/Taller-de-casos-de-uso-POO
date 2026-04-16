@@ -111,7 +111,13 @@ Acciones:
 • Retirar dinero
 • Consultar saldo
 • Validar PIN
-7. Sistema de Delivery
+
+
+<img width="1186" height="757" alt="Diagrama en blanco - Página 3" src="https://github.com/user-attachments/assets/0b1806ee-656e-480d-8e74-3c49fca895e5" />
+
+
+
+8. Sistema de Delivery
 Contexto: App para pedir comida.
 Tarea:
 • Incluir múltiples actores
