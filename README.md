@@ -1,78 +1,82 @@
 **Taller Grupal: Ejercicios de Casos de Uso**
 
-**INTEGRANTES:** JEAN PAUL AGUILAR, CESAR ARIAS, MATEO VALDIVIESO
+**Integrantes:** *JEAN PAUL AGUILAR, CESAR ARIAS, MATEO VALDIVIESO*
 
 **1. Sistema de Biblioteca**
 
-*Contexto:* Un sistema permite gestionar préstamos de libros.
+*Contexto: Un sistema permite gestionar préstamos de libros.*
 
-*Tarea:*
+**Tarea:**
 
-• Identificar actores
+*• Identificar actores*
 
-• Definir al menos 5 casos de uso
+*• Definir al menos 5 casos de uso*
 
-• Incluir un <<include>>
+*• Incluir un <<include>>*
 
-*Acciones:*
+**Acciones:**
 
-• Prestar libro
+*• Prestar libro*
 
-• Devolver libro
+*• Devolver libro*
 
-• Registrar usuario
+*• Registrar usuario*
 
 **2. Sistema de Tienda Online**
 
-*Contexto:* Los usuarios pueden comprar productos en línea.
+*Contexto: Los usuarios pueden comprar productos en línea.*
 
-*Tareea:*
+**Tareea:**
 
-• Modelar el proceso de compra
+*• Modelar el proceso de compra*
 
-• Incluir un <<extend>>
+*• Incluir un <<extend>>*
 
-*Acciones:*
+**Acciones:**
 
-• Agregar al carrito
+*• Agregar al carrito*
 
-• Pagar
+*• Pagar*
 
-• Aplicar descuento
+*• Aplicar descuento*
 
 **3. Sistema de Chat**
 
-*Contexto:* Aplicación tipo WhatsApp.
+*Contexto: Aplicación tipo WhatsApp.*
 
-*Tarea:*
+**Tarea:**
 
-• Diseñar el diagrama completo
+*• Diseñar el diagrama completo*
 
-• Incluir notificaciones
+*• Incluir notificaciones*
 
-*Acciones:*
+**Acciones:**
 
-• Enviar mensaje
+*• Enviar mensaje*
 
-• Recibir mensaje
+*• Recibir mensaje*
 
-• Iniciar sesión
+*• Iniciar sesión*
 
 **4. Sistema de Reservas de Hotel**
 
-Contexto:Permite reservar habitaciones.
-Tarea:
-• Identificar 2 actores
-• Crear 6 casos de uso
-Acciones:
-• Buscar habitación
-• Reservar
-• Cancelar
+*Contexto: Permite reservar habitaciones.*
 
+**Tarea:**
+
+*• Identificar 2 actores*
+
+*• Crear 6 casos de uso*
+
+**Acciones:**
+
+*• Buscar habitación*
+
+*• Reservar*
+
+*• Cancelar*
 
 <img width="1324" height="847" alt="Diagrama en blanco (1)" src="https://github.com/user-attachments/assets/01a779a3-2785-4b45-86df-25e128494764" />
-
-
 
 5. Sistema Académico
 Contexto: Gestión de estudiantes y docentes.
